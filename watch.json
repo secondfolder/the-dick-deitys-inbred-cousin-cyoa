@@ -1,0 +1,18 @@
+{
+    "install": {
+        "include": [
+            "^package\\.json$",
+            "^\\.env$"
+        ]
+    },
+    "restart": {
+        "include": [
+            "^build/",
+            "^config/",
+            "^package\\.json$",
+            "^\\.env$",
+            "^src/deckData.json",
+            "^static.config.js"
+        ]
+    }
+}

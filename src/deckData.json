@@ -1,0 +1,1412 @@
+{
+  "title": "The dick deity's inbred cousin",
+  "id": 4,
+  "version": "1.2.4",
+  "author": "Dragon Jak",
+  "authorLink": "https://www.reddit.com/user/dragon_jak",
+  "description": "<center>Why hello there young one! I'm here to give you a fantastic present, in the form of a giant cock! Who am I? Why am I giving you this? What am I doing in your house? Geez kid, ever heard of looking a gift horse in the mouth? Anyway, let's get started, shall we?</center>",
+  "img": "",
+  "imgSource": "",
+  "budget": 0,
+  "contains": [
+    {
+      "title": "Game-mode",
+      "id": 11,
+      "description": "<center>First, let's choose your cock's size! The bigger you go, the more points you'll get!</center>",
+      "maxSelectable": 1,
+      "contains": [
+        {
+          "title": "The footlong",
+          "id": 5,
+          "description": "<center>\n12 inches. My god you're boring.</center>",
+          "img": "The footlong.png",
+          "imgSource": "",
+          "maxSelectable": 1,
+          "cost": -6
+        },
+        {
+          "title": "Goody two shoes",
+          "id": 6,
+          "description": "<center>\n24 inches. Still pretty small, but I suppose I can accept it.</center>",
+          "img": "2.jpg",
+          "imgSource": "",
+          "maxSelectable": 1,
+          "cost": -12
+        },
+        {
+          "title": "The rule of thirds",
+          "id": 7,
+          "description": "<center>\n36 inches long. That's the third leg I know and love!</center>",
+          "img": "3.jpg",
+          "imgSource": "",
+          "maxSelectable": 1,
+          "cost": -18
+        },
+        {
+          "title": "Four seasons",
+          "id": 10,
+          "description": "<center>\n48 inches. Finally, some decent fire-power!</center>",
+          "img": "Four seasons.png",
+          "imgSource": "",
+          "maxSelectable": 1,
+          "cost": -24
+        },
+        {
+          "title": "Five alive",
+          "id": 15,
+          "description": "<center>\n60 inches. If your cock was a person, it'd be just tall enough to not be a midget.</center>",
+          "img": "5.jpg",
+          "maxSelectable": 1,
+          "cost": -30
+        },
+        {
+          "title": "Six foot, one inch",
+          "id": 16,
+          "description": "<center>72 inches. By statistical probability, your cock is now taller than you are</center>",
+          "img": "6.jpg",
+          "maxSelectable": 1,
+          "cost": -36
+        },
+        {
+          "title": "Inhuman",
+          "id": 18,
+          "description": "<center>\n84 inches. You're now more cock than human, how'd'ya feel?</center>",
+          "img": "7.png",
+          "maxSelectable": 1,
+          "cost": -42
+        },
+        {
+          "title": "Cock-tapus",
+          "id": 19,
+          "description": "<center>\n96 inches. The perfect size, at least in my wife's opinion.</center>",
+          "img": "8.jpg",
+          "maxSelectable": 1,
+          "cost": -48
+        },
+        {
+          "title": "The cock with nine lives",
+          "id": 20,
+          "description": "<center>\n108 inches. How far you've cum...</center>",
+          "img": "9.png",
+          "maxSelectable": 1,
+          "cost": -54
+        },
+        {
+          "title": "Kingdom cum",
+          "id": 21,
+          "description": "<center>\n120 inches. Give people a bitta notice before ya turn around.</center>",
+          "img": "Kingdom cum.png",
+          "maxSelectable": 1,
+          "cost": -60
+        },
+        {
+          "title": "A cock to blot out the sun",
+          "id": 22,
+          "description": "<center>\n132 inches. Hope ya didn't like having stuff in front of you!</center>",
+          "img": "11.jpg",
+          "maxSelectable": 1,
+          "cost": -66
+        },
+        {
+          "title": "Re-Dick-ulous",
+          "id": 17,
+          "description": "<center>\n144 inches. \n\nMUAHAHAHAHAHAHAHAHHAHAHAHA.</center>",
+          "img": "Re-Dick-ulous.png",
+          "maxSelectable": 1,
+          "cost": -72
+        }
+      ]
+    },
+    {
+      "title": "Freebies",
+      "id": 0,
+      "description": "<center>Here's a few things your new cock can do.</center>",
+      "contains": [
+        {
+          "title": "Relative girth",
+          "id": 2,
+          "description": "<center>No matter how long your cock is, it's always proportionally thick. If you wanna run the numbers yourself, just know that your circumference should be 75% of your length. This roughly translates to a diameter that is a quarter of your length.</center>",
+          "maxSelectable": 1
+        },
+        {
+          "title": "Efficient blood-flow",
+          "id": 3,
+          "description": "<center>No matter your size, you're still able to get and maintain an erection. Your cock will even reach the same angle and firmness as when it was much smaller.</center>",
+          "maxSelectable": 1
+        },
+        {
+          "title": "Muscle power",
+          "id": 9,
+          "description": "<center>Your cum can get all the way down your cock without slowing down, and comes out the tip at the same speed as it normally would for you. This does not increase the amount of cum that is produced though.</center>",
+          "maxSelectable": 1
+        },
+        {
+          "title": "Mannrobics",
+          "id": 12,
+          "description": "<center>If ya weren't already, y're a dude now. Here, have some hormones and lets get rid of those speed bumps on yer chest... Enjoy the testosterone, it's one helluva drug.</center>",
+          "maxSelectable": 1
+        },
+        {
+          "title": "Weightless",
+          "id": 8,
+          "description": "<center>Your cock won't weigh on your body at all. In fact, to you, it'll be as light as air. Though that's not to say others won't feel it. This also extends to balls and/or tits.</center>",
+          "maxSelectable": 1
+        },
+        {
+          "title": "Magic",
+          "id": 13,
+          "description": "<center>The amount you need to eat and drink does not change no matter how much your body might. Even with a cock the size of a rhinoceros, you do not need to eat like a rhino.</center>",
+          "maxSelectable": 1
+        },
+        {
+          "title": "Exact",
+          "id": 1,
+          "description": "<center>You can increase your length of your cock beyond your selected game mode to the exact size you want in inches. However, no amount of extra inches will increase how many points you get.</center>",
+          "maxSelectable": 1
+        }
+      ]
+    },
+    {
+      "title": "Perks",
+      "id": 23,
+      "description": "<center>What, you thought I'd give you a ten-footer and send ya on yer way? I might be nuts, but I'm not crazy. The followin' perks are divided up based on what they affect. Y've got general, dick and balls. General perks don't need a dick or balls to work, whilst the other two need the appropriate body part to channel the power.</center>",
+      "contains": []
+    },
+    {
+      "title": "General",
+      "id": 14,
+      "contains": [
+        {
+          "title": "Simple genetics",
+          "id": 24,
+          "description": "<center>\n\nYour kids will inherit your enormous dick and many of your abilities. You can choose which ones, and how many. If you do not want your child to have your giga-dick, then they can still inherit your General perks. Try to translate any balls or cock perks to a female as cleanly as you can.</center>",
+          "img": "simple genetics.jpg",
+          "imgSource": "",
+          "maxSelectable": 1,
+          "cost": 2
+        },
+        {
+          "title": "Clean out",
+          "id": 26,
+          "description": "<center>Anyone you touch will have their vagina and asshole cleaned. Poop will disappear, unsightly growths will vanish, and everything'll smell and taste as nice as it can. It's gonna be really weird if you get into a street fight though.\n\n</br>\n\n</br>\n\nFor an extra point, this will always be happening to you.</center>",
+          "img": "Clean out.jpeg",
+          "maxSelectable": 2,
+          "cost": 1
+        },
+        {
+          "title": "Muscle bound",
+          "id": 27,
+          "description": "<center>Your body become more muscular. You can decide if you want to keep your current fat.\n\n</br>\n\n</br>\n\nFor one point, you become lithe, like a swimmer.\n\n</br>\n\n</br>\n\nFor two points, you become built, like a man who trained all his life but never took steroids.\n\n</br>\n\n</br>\n\nFor three, you're like arnie in his prime.\n\n</br>\n\n</br>\n\nFor four, you become like superman, with every muscle you own bulging out of your skin.</center>",
+          "img": "muscle bound.jpg",
+          "imgSource": "",
+          "maxSelectable": 4,
+          "cost": 1
+        },
+        {
+          "title": "Stretch marks",
+          "id": 28,
+          "description": "<center>Any clothing you wear will stretch around your body perfectly, no matter how big you are or how erect you are. Even if you're wearing skinny jeans as you get erect, your pants will not rip. As an added bonus, the clothes won't bite into you and be uncomfortable because they're too small.</center>",
+          "img": "stretch marks.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Cartoonish concealment",
+          "id": 30,
+          "description": "<center> \n<b>Requires Stretch marks</b>\n\n</br>\n\n</br>\n\nWhilst wearing pants, your cock will seem to disappear. It'll produce no bulge, and you won't feel anything if someone kicks you where your balls should be. The moment you take the pants or underwear off, your dick will flop right back out.\n\n</br>\n\n</br>\n\nFor an extra point, you can choose to show off a bulge. You can even edit how much of your cocks and balls show through the clothes. So you might have a twelver, but the bulge makes it look like it's only a foot long.</center>",
+          "img": "Cartoonish concealment.png",
+          "maxSelectable": 2,
+          "cost": 1
+        },
+        {
+          "title": "Unseen",
+          "id": 29,
+          "description": "<center>If your genitals are not concealed by any sort of clothing, no one will notice it's existence. You could be waving twelve feet of dick meat around, and nobody would give you a second glance. They will still notice bulges in your pants, and they will notice your cock if it's erect and touching them. In those scenarios, they will react as they might normally to a cock of that size.</center>",
+          "img": "unseen.jpg",
+          "maxSelectable": 1,
+          "cost": 3
+        },
+        {
+          "title": "One man army",
+          "id": 31,
+          "description": "<center>\n<b>Requires Unseen</b>\n\n</br>\n\n</br>\n\nAny solo lewd things you do will go unnoticed. If you're masturbating in public, people won't care, no matter how much noise you make. They will walk around you while you do this if they can, so tugging one out can be a good way to get across a crowded room. However, if your body or cum touches another person whilst you're doing lewd things, everybody will start to notice you.</center>",
+          "img": "one man army.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Co-op",
+          "id": 32,
+          "description": "<center>\n<b>Requires One man army</b>\n\n</br>\n\n</br>\n\nYou can fuck other people in public, and no-one will notice or care. The people you fuck must be willing or have given consent, or else other people will notice.</center>",
+          "img": "Co-op.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Joyous",
+          "id": 34,
+          "description": "<center><b>Requires Co-op</b>\n\n</br>\n\n</br>\n\nWhen you fuck people in public, people that like you or the person you're fucking will ask if they can join in. They won't mind if you or your partner turn them down. You can also expect a lot of people to applaud your fucking or to encourage you and your partner.</center>",
+          "img": "joyous.jpg",
+          "imgSource": "",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Sweat stop",
+          "id": 33,
+          "description": "<center>Your junk doesn't get sweaty no more.</center>",
+          "img": "sweat stop.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "I'm on a horse",
+          "id": 36,
+          "description": "<center>The sweatier you are, the better you smell.</center>",
+          "img": "I'm on a horse.jpg",
+          "maxSelectable": 1,
+          "cost": 3
+        },
+        {
+          "title": "Auto clean",
+          "id": 35,
+          "description": "<center>Your dick and balls are always clean. This is so worth it, d'ya know how hard it is to find eleven feet's worth of soap?</center>",
+          "img": "auto clean.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Hair loss",
+          "id": 37,
+          "description": "<center>You can permanently reduce the amount of hair anywhere on your body.</center>",
+          "img": "hairloss.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Growin' it out",
+          "id": 39,
+          "description": "<center>You can permanently increase the amount of hair anywhere on your body.</center>",
+          "img": "growin' it out.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Handsomeness buff",
+          "id": 40,
+          "description": "<center>Your face is bumped from wherever it is now to a 7/10. Your cheekbones, facial hair, eyes, eyebrows, hair, etc, all become more attractive. Whether that means making things symmetrical, reducing acne, whatever, it all improves. For more points, you increase your attractiveness further. One extra point is an 8/10, two extra is a 9/10 and three is a 10/10. You can't go past 10, but every single living human being will find your face attractive.\n\n</br>\n\n</br>\n\nOf course, these improvements are relative. If you're a big, hulking person, this upgrade isn't going to make you a beautiful waif. Nor, if you're skinny, will you become a bulky lumberjack. It'll play to the strengths you already have.</center>",
+          "img": "Handsome.png",
+          "maxSelectable": 4,
+          "cost": 1
+        },
+        {
+          "title": "Futa fun",
+          "id": 41,
+          "description": "<center>Y've been waiting on this one haven'tcha?\n\n</br>\n\n</br>\n\nHere's the business. You're a girl version a yerself. Y'can change hair, eye and skin colour, but otherwise yer the same. Y've got some breasts, y've got a pussy, and you've still got the monster cock. Have some fun explainin' all that to the passport lads! Oh, if you really wanna, y'can also change yer name. I don't mind all that much, it's yer business.</center>",
+          "img": "Futa fun.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Booby trap",
+          "id": 43,
+          "description": "<center><b>Requires Futa fun</b>\n\n</br>\n\n</br>\n\nYour breasts are as big as your cock in terms a' cup size.\n\n</br>\n\n</br>\n\nSo, a little bio lesson. Don't read this if ya know how tits work. Anyway, cup size is calculated by takin' yer chests circumference, yer chest + boob cricumference, and taking away the circumference the chest circumference. An A cup means you have one inches difference between your ribs and your boobs. Now, if ya extrapolate that shit up ta yer cock size, that means that your cock's length is the number of inches difference between your tits and ribs. So if you took the twelve incher, then that gives ya an L cup. And that's just the low end! Have fun with yer milk bags!</center>",
+          "img": "Booby trap.png",
+          "imgSource": "",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Milk bags",
+          "id": 42,
+          "description": "<center><b>Requires Futa fun</b>\n\n</br>\n\n</br>\n\nYour breasts produce milk when you're aroused. It's at a similar rate as your cum, so if you cum 5ml per orgasm, then you'll make 5 ml of milk per minute of lactation. If ya really wanna make the most of this, I'd get a few points into cum-boost. The milk has similar properties to your cum, so you can make it tastier, nutritious, addictive, or disgusting by buying the corresponding perk or debuff for one of your balls. Only one set of balls needs to possess the trait for all breasts to be affected.</center>",
+          "img": "milk bags.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Porn physics",
+          "id": 44,
+          "description": "<center>Any hole you try and fit your cock in will be able to take it. It will be painless, the hole will shrink back to normal once you pull your dick out, and the more you're stretching the person, the more insane the pleasure. It's such a useful ability, it's pretty much a necessity. Why don't I just make it a freebie? Cause I'm a cruel bastard, why do ya think?</center>",
+          "img": "porn physics.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "One way street",
+          "id": 38,
+          "description": "<center><b>Requires Porn physics</b>\n\n</br>\n\n</br>\n\nIf you've got your cock in someone's ass, and your cock is longer than they are, it will come out of their mouth. This disregards their internal organs, treating them instead as a straight tube from ass to mouth. You won't feel any acid, poop, or anythin' like that, and they'll feel every inch of your cock going up their body.</center>",
+          "img": "One way street.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Tingle",
+          "id": 45,
+          "description": "<center>Sex just feels so much nicer. Eating people out, getting fucked, doin' the fucking, masturbation, it all feels so nice. Hell, even things like hugs, kisses, etc feel awesome. If any of your fetishes get involved, they make things feel even more awesome! So if y've got a redhead fourgy while listening to nickelback with a sock puppet over your cock, you will have your mind blown with pleasure.</center>",
+          "img": "Tingle.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "In-your-end-o",
+          "id": 46,
+          "description": "<center>People who like you will drop very obviously lewd remarks into conversation and act sexually around you. For those who don't do subtlety, this is invaluable.</center>",
+          "img": "in-your-end-o.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Feedback loop",
+          "id": 48,
+          "description": "<center>Any people who are touching you will experience the same erotic pleasure you're experiencing, and will orgasm at the same time as you.</center>",
+          "img": "feedback loop.jpg",
+          "maxSelectable": 1
+        },
+        {
+          "title": "Take their breath away",
+          "id": 47,
+          "description": "<center>Those who are touching you will not need to breathe and have no gag-reflex. I know exactly what you're going to try do, and yes you could go scuba diving with this power. Just bring an air tank of yer own, this power doesn't affect you.\n\n</br>\n\n</br>\n\nBut, fer an extra point, this'll constantly be affectin' you. </center>",
+          "img": "Take their breath away.png",
+          "maxSelectable": 2,
+          "cost": 1
+        },
+        {
+          "title": "Identity retention",
+          "id": 49,
+          "description": "<center>All your documentation (driver's license, passport, etc.) will be retroactively made so that the you on those documents is the same as the new you. However, having a four footer at the family christmas party'll probably still surprise your family.\n\n</br>\n\n</br>\n\nAny changes you make to your body in future will also be updated on your documents.</center>",
+          "img": "identity retention.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Haremph",
+          "id": 50,
+          "description": "<center>All your sexual partners will be totally comfortable with you fucking, dating and marrying other people, provided you still show them a bit of love.</center>",
+          "img": "haremph.jpeg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Cuck-king",
+          "id": 52,
+          "description": "<center><b>Requires Haremph</b>\n\n</br>\n\n</br>\n\nThe more you fuck someone, the more they'll insist that you fuck other people. They'll still like fucking you, but they'll try and find other people for you to have sex with. They'll often watch you fuck other people and masturbate furiously. They can join in, but they'll spend the time rubbing your body or licking you rather than actually fucking or getting fucked by you.\n\n</br>\n\n</br>\n\nThey're a lot more likely to suggest their family members if they think they're your type.</center>",
+          "img": "Cuck-king.png",
+          "maxSelectable": 1,
+          "cost": 2
+        },
+        {
+          "title": "Why would you do anything else?",
+          "id": 51,
+          "description": "<center>Whilst having sex, you and your partner will not need to eat, sleep or drink, and both your refractory periods will be reduced to 1/10th. These urges will return when you stop fucking.</center>",
+          "img": "Why would you.jpeg",
+          "maxSelectable": 1,
+          "cost": 2
+        },
+        {
+          "title": "Suddenly gay",
+          "id": 53,
+          "description": "<center>You are able to give or take away a fetish or turn-off from anyone you touch. You'll need to wait about half an hour before you can do it again though.</center>",
+          "img": "suddenly gay.jpg",
+          "maxSelectable": 1,
+          "cost": 2
+        },
+        {
+          "title": "Play the part",
+          "id": 54,
+          "description": "<center>If you're dressed up in any way, from a costume to a uniform, you can flip a mental switch and turn the world into the porn variant. So if you're wearing a pizza boy's uniform, you'll be handed a piping hot pizza and an address. When you get there, the customer won't be able to pay, and will instead need to arrange something else. If you break character, then everything stops and you just become a jackass in a pizza boy's uniform. Breaking character is the only way to turn the porn variant reality off. Takes about an hour before you can turn it back on.</center>",
+          "img": "play the part.jpg",
+          "maxSelectable": 1,
+          "cost": 2
+        },
+        {
+          "title": "Dickopter",
+          "id": 55,
+          "description": "<center>You can fly! The bigger your cock(s) maximum size, the faster you move. At a foot, you can only move at human walking pace, but at 12 feet, you can zoom around at mach 5 without a problem.</center>",
+          "img": "dickopter.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Total recum",
+          "id": 56,
+          "description": "<center>Anytime you orgasm, you'll be able to transport to any of the times you've orgasmed in the past. You cannot travel back before you were given these powers though. You'll retain your memories, but your body will return to how it used to look.</center>",
+          "img": "total recum.jpg",
+          "maxSelectable": 1,
+          "cost": 3
+        },
+        {
+          "title": "Not likin' this",
+          "id": 57,
+          "description": "<center>If you touch someone, you can completely change how they think of you. You can do this once a week, and the change will last three days\n\n</br>\n\n</br>\n\nFor an extra two points, the changes will be permanent</center>",
+          "img": "don't like it.jpg",
+          "maxSelectable": 2,
+          "cost": 2
+        },
+        {
+          "title": "Size king",
+          "id": 58,
+          "description": "<center>Any humans who are attracted to or turned on by big dicks will glow yellow. The bigger the cock that they like, the redder their skin will appear. You'll even be able to see them through up to a foot of wall. If the kind of cock they like is bigger than you are, they'll glow black.</center>",
+          "img": "sizeking.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Put on yer thinkin' cock",
+          "id": 59,
+          "description": "<center>Whenever you get erect and there's nobody for you to have sex with, you'll be totally motivated. Your brain will actually be incapable of procrastination for the duration of your erection.</center>",
+          "img": "put on yer thinkin' cock.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Comfort zone",
+          "id": 25,
+          "description": "<center>Your cock(s) and balls are really comfy. If anyone where to sleep resting on or against them, they would have a fantastic nights sleep and will wake up well rested. However, sleeping on them will cause the person to have lewd dreams about you.</center>",
+          "img": "comfort zone.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Trump card",
+          "id": 61,
+          "description": "<center>Donald trump's voice is now in yer head. Now, how is that a positive, I reckon y're wonderin'. Pretty simple actually. Basically, this trump voice will call all your negative, depression or anxiety based thoughts \"Fake news\". He'll go on long, nonsensical rants not about how great he is, but how great you are. He may take some getting used to if yer not white, a dude, or straight, but eventually he'll cater his rants to your differences and his insensitivity will be smoothed out.\n\n</br>\n\n</br>\n\nHe'll also try to get you to say more confident things out loud. His favourite thing is when you brag about how big your dick is.</center>",
+          "img": "trump card.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "God of thunder",
+          "id": 62,
+          "description": "<center>Electricity gets you very, very hard. Lightning strikes will make you aroused for a week, and you have a habit of being hit by lightning when it comes to town.\n\n</br>\n\n</br>\n\nOn top of this, whenever you have an erection, you can shoot electricity off your skin. However, the more electricity you shoot, the less aroused you'll become.</center>",
+          "img": "god of thunder.jpeg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Big dick energy",
+          "id": 63,
+          "description": "<center>Pick one of four modes. Adorable, respectable, terrifying, or confident. Even if you aren’t any of those things, whichever one you pick will be how everyone else around shall see you. If you pick terrifying for example, everyone will take what they might already know about you and look at it through a lense of you being one scary motherfucker. You can switch modes once a week.</center>",
+          "img": "big dick energy.jpg",
+          "maxSelectable": 1,
+          "cost": 2
+        },
+        {
+          "title": "Fractal dicketry",
+          "id": 64,
+          "description": "<center>Pick a fictional universe. Whenever you orgasm, you have the choice the option to jump into that universe. You can buy this multiple times to get multiple universes to jump to. Orgasm again to jump back to your home universe. Only you will be transported. Your clothes and stuff will stay behind.</center>",
+          "img": "Fractal dicketry.jpg",
+          "maxSelectable": 1,
+          "cost": 3
+        },
+        {
+          "title": "Taking my balls and going home",
+          "id": 65,
+          "description": "<center>You can do another CYOA after this one. However, any non-cock related upgrades you buy in those CYOAs are twice as costly.</center>",
+          "img": "Taking my balls and going home.jpeg",
+          "maxSelectable": 1,
+          "cost": 2
+        },
+        {
+          "title": "Deity retreat",
+          "id": 60,
+          "description": "<center>Every time you orgasm, you can open a portal to your very own pocket dimension. Whilst inside, time outside is stopped and you do not age. There are no living beings here, except you. You can bring things through the portal though. This dimension is about 5 square kilometres, and you reshape the place every time you orgasm.</center>",
+          "img": "diety retreat.jpg",
+          "maxSelectable": 1,
+          "cost": 3
+        }
+      ]
+    },
+    {
+      "title": "Cock",
+      "id": 66,
+      "contains": [
+        {
+          "title": "Grower",
+          "id": 68,
+          "description": "<center>Your cock only achieves its giant size whilst you're erect. As you become more flaccid, your cock shrinks back to its size before I gave you these powers. Trust me, the face the girls pull never gets old.\n\n</br>\n\n</br>\n\n<b>If you get Relativity and Booby trap, this also affects them.</b></center>",
+          "img": "grower.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Interesting delivery method",
+          "id": 69,
+          "description": "<center>You can cum in any orifice someone has and still manage to get them pregnant. Ass, eyes, ears, mouth, urethra, anywhere it'll fit. You can even impregnate men.\n\n</br>\n\n</br>\n\nIf you have The Breeder Society, men will also come after you, seeking impregnation.\n\n</br>\n\n</br>\n\nIf you have Fluff Muff as well, you can impregnate any living creature. </center>",
+          "img": "interesting delivery method.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Bug free",
+          "id": 70,
+          "description": "<center>You cannot contract, pass on, or carry any STDs. \n\n</br>\n\n</br>\n\nBy spending another point, you can make it so anyone you fuck is freed from STDs</center>",
+          "img": "bug free.png",
+          "maxSelectable": 2,
+          "cost": 1
+        },
+        {
+          "title": "Cocking this up",
+          "id": 72,
+          "description": "<center>Your penis won't experience any pain or discomfort, so dragging it along a gravel road or having it kicked won't damage it. It'll essentially be invulnerable. Y'could probably stop bullets with it!</center>",
+          "img": "cocking this up.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Dick ethereal",
+          "id": 74,
+          "description": "<center>Your cock and balls can pass through anything you want them to. Every wall's a gloryhole!</center>",
+          "img": "dick ethereal.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Musk-ateer",
+          "id": 77,
+          "description": "<center>The sweatier your junk is, the better it smells to those around you.</center>",
+          "img": "musk-ateer.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Elastic",
+          "id": 79,
+          "description": "<center>Your urethra can now be stretched open, and other things can be put inside of it. It becomes rather pleasurable for both parties, like a vagina. However, you cannot fit anything in your urethra which is longer or wider than the penis itself.</center>",
+          "img": "elastic.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Camping grounds",
+          "id": 78,
+          "description": "<center><b>Requires Elastic</b>\n\n</br>\n\n</br>\n\nYour urethra can be stretched however you please. You can fit almost anything in there without pain, even people. Once inside, they will feel weightless to your body, and you can reach a complete erection even with a car in your cock. If another person were to crawl far enough, and you had Relativity, then they would be able to crawl into your balls. This is like a warm, sticky bath, at least depending on the size, and any effects your cum might have will be felt ten-fold. If you also have On the inside, then they'll still crawl into your balls, but they won't stretch your body. They'll be in a testicle based pocket dimension.\n\n</br>\n\n</br>\n\nIt is perfectly safe to use \"Cartoonish concealment\" while they're still in your cock with no negative effects, though they might rip your pants coming out.</center>",
+          "img": "camping grounds.jpeg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Pama ternity",
+          "id": 80,
+          "description": "<center><b>Requires Elastic</b>\n\n</br>\n\n</br>\n\nIf someone elses cock was to cum into your cock, there's a chance you could become pregnant. The child will then gestate in your testicle, and come out through your cock. Any pregnancy based perks will affect this. You can be pregnant separately in every testicle you have. So if you have two testicles, you could sire the children of two different people.</center>",
+          "img": "pama ternity.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Gettin' intimate",
+          "id": 81,
+          "description": "<center><b>Requires Elastic</b>\n\n</br>\n\n</br>\n\nYour cock can suck people into itself, essentially voreing them. You can only do this if you're fucking them or if your cum is touching them. The voreing is pretty pleasant for the two of you, but it can be a bit surreal for the person you suck up. The person's body then spends a few minutes being dissolved into cum, which feels fuckin' incredible. Then, their personality pops into your head.\n\n</br>\n\n</br>\n\nIf the person is unwilling to bond with you, you can take a single one of their skills, bits of knowledge, memories or wisdom. This doesn't stop them from having it, but it allows you to learn something new or improve something you could already do. Then, the next time you orgasm, you'll cum the person's body weight in cum. That person's personality will slowly dissipate from your mind as the cum reforms into their body exactly as it was when you sucked it up. It can be very difficult to hold onto to a person for any length of time, as the act of absorbing them is so pleasurable. However, you do get to keep the nugget of skill or information you decided on. The person will not reform if they're not in a place big enough to contain their body (A metal box) or are not in a safe environment (A boiling pot of water). The semen will remain in congealed stasis until the danger has been removed. The person can be kept in a coma if you cum them into a drain pipe and simply leave them there. The cum will not go off, nor will the person age.\n\n</br>\n\n</br>\n\nIf they do decide to bond with you, then you get access to all of their skills, wisdom and knowledge, which is then added to your own. The two of you meld into a single, unified being, combining your strengths and knowledge to combat your combined weaknesses. The bonded individual can leave at any time (Which will cause a five minute long orgasm), but trying to do it is like getting out of a warm bath onto an icey tiled floor.</center>",
+          "img": "Gettin' intimate.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "You're gregnant!",
+          "id": 83,
+          "description": "<center><b>Requires Gettin' intimate</b>\n\n</br>\n\n</br>\n\nIf you absorb someone into your cock and then cum their semen body into a uterus (Or anywhere if you have interesting delivery method), then the woman will be impregnated for sure. They will carry the baby to term, and when they come out, it will be the same person as was absorbed into your cock. They'll look the same as they were when they were newborn, and have all memories, skills, etc from their old life. Their age will be reset. They will be affected by any pregnancy related buffs or debuffs you have just as your normal child might. The person will basically be in a coma whilst inside the womb, only waking up moments before being pushed out..</center>",
+          "img": "You're gregnant!.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Spread the word",
+          "id": 85,
+          "description": "<center>All your abilities, including your dick size, can be copied and transferred to the people you fuck. It will be gradual, and if you miss a day, it'll all be reset. You need to give that person an orgasm by your cock at least once every day for two straight months per ability/debuff. Cock size will be gradually transferred as the person gets more of your abilities/debuffs. They can only reach your size once you give them everything. If the person you're fucking is a girl and you don't have Futa fun, then only the abilities that don't require a dick or balls will be transferred.\n</center>",
+          "img": "spread the word.jpg",
+          "maxSelectable": 1,
+          "cost": 3
+        },
+        {
+          "title": "Assorted Upgrades",
+          "id": 75,
+          "description": "<center><b>Requires Spread the word</b>\n\n</br>\n\n</br>\n\nFor an extra point, you can decide what order the changes come through\n\n</br>\n\n</br>\n\nFor an extra point, you can decide to not let certain changes come through at all. If you do this when you first start fucking them, you can still giving them your full cock size without giving them all your abilities/debuffs.</center>",
+          "img": "Assorted upgrades.jpg",
+          "maxSelectable": 2,
+          "cost": 1
+        },
+        {
+          "title": "Hans, get the stepladder!",
+          "id": 73,
+          "description": "<center>Whenever you get an erection, you can choose to grow. The amount you can grow is however big of a cock you chose. So if you picked a 5 footer, and you're already 4'11\", then all of a sudden you're 9'11. Everything except your dick and balls will grow proportionally. You'll shrink back down when you go flaccid though. However, you don't have to grow all of the extra five feet. If you'd still like to be able to fit through doors, you can just use a part of the length, maybe two feet out of the five to be 6'11\".\n</center>",
+          "img": "Hans, get the stepladder.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Bend it baby",
+          "id": 71,
+          "description": "<center>Your cock can bend! You can mold it with your hands, pushing it into whichever shape you like. With a little guidance, you can probably fuck yourself! You can turn this on and off.</center>",
+          "img": "bend it baby!.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Snake-like",
+          "id": 76,
+          "description": "<center><b>Requires Bend it baby!</b>\n\n</br>\n\n</br>\n\nYour cock is totally prehensile, like an enormous arm, with all the maneuverability of a tentacle. This can even control your cock if you Fem-cock, though her personality may not like you taking control of her body like that.</center>",
+          "img": "snake-like.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Horsin' around",
+          "id": 82,
+          "description": "<center>Y've got a horse cock! Enjoy!</center>",
+          "img": "horsin' around.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Knot cool",
+          "id": 86,
+          "description": "<center>Your cock has a knot. Anybody who fucks you can't get your cock out till you orgasm, as the knot locks them in place. If they'll fit and if yer cock's big enough to lift them, y'can use them like a human cocksleeve till ya cum.</center>",
+          "img": "knot cool.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "I'm the captain here",
+          "id": 84,
+          "description": "<center>You can completely control your erection. No matter how horny you might be feeling, you can force yourself flaccid. However, making yourself erect when you're not horny will cause you to get aroused. There's no real harm in staying erect for as long as you like.</center>",
+          "img": "I'm the captain here.jpg",
+          "maxSelectable": 1,
+          "cost": 2
+        },
+        {
+          "title": "Reload",
+          "id": 67,
+          "description": "<center><b>Requires I'm the captain here</b>\n\n</br>\n\n</br>\n\nYou can control when you orgasm. You can orgasm flaccid, withhold orgasms, and you can cum multiple times. This also removes your refractory period, so all orgasms will produce the same amount of cum, and be just as intense, if not more so.</center>",
+          "img": "Reload.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Pay day!",
+          "id": 90,
+          "description": "<center>Every time y'have an orgasm, y'get $100 Australian dollars. Hey, conversions a bitch. Y'can get more per orgasm if ya do some other stuff when ya get yourself off.\n\n</br>\n\n</br>\n\nIf someone else uses their hands: +$10\n\n</br>\n\n</br>\n\nIf someone else uses their mouth: +$50\n\n</br>\n\n</br>\n\nIf you use your own mouth: +$100\n\n</br>\n\n</br>\n\nIf someone else uses their vagina: +$105\n\n</br>\n\n</br>\n\nIf someone else uses their asshole: +$150\n\n</br>\n\n</br>\n\nIf you use your own asshole/pussy: +$200</center>",
+          "img": "Pay day!.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Condomancer",
+          "id": 91,
+          "description": "<center>You can summon an unbreakable condom onto your dick. It will contain all the cum you shoot off in one orgasm, and cannot tear no matter how much bigger your cock gets. It will even shrink with your cock if you go flaccid. Once you've shot one orgasms worth into it, it will fall off and tie itself up. Any cum in the condom will stay fresh and warm until the condom is opened. Another condom can be summoned after five minutes.\n\n</br>\n\n</br>\n\n**If you have Clean up, it won't cause the cum in a sealed condom to disappear until it's broken**</center>",
+          "img": "condomancer.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Slippy",
+          "id": 89,
+          "description": "<center>Your cock secretes a thin layer of lubricant at all times. It will vanish if it drips off of your cock or is wiped onto anything. Enjoy slip-and-sliding if you took Cocking this up and Awfully ballsy. You'd be surprised how much y'can get done with an invincible giant cock.</center>",
+          "img": "Slippy.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Straightened out",
+          "id": 93,
+          "description": "<center>Any girls you fuck become completely heterosexual, and any guys you fuck become completely gay. You can ease off the power a bit to only make the people you fuck Bi or Pan.</center>",
+          "img": "straightened out.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Give it up",
+          "id": 94,
+          "description": "<center>People you fuck become more submissive towards you. The kind of submissiveness varies based on the person, from slave, to pet, to maid.</center>",
+          "img": "give it up.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Toughen up",
+          "id": 92,
+          "description": "<center>The people you fuck become more dominant towards you. The kind of dominance varies based on the person, from bureaucrat, to mothering, to dominatrix, to king.</center>",
+          "img": "toughen up.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "No experience necessary",
+          "id": 96,
+          "description": "<center>Anybody who you fuck will have an awesome time. Even a five minute quickie will be the most amazing fuck. With a little bit of practice and training in sexual conduct, you'll always get a repeat customer.</center>",
+          "img": "no experience neccesary.jpeg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Fluff muff",
+          "id": 88,
+          "description": "<center>Anybody who orgasms by your cock can be transformed. You can turn them into a furry, scalie, anthro pony, monster girl/boy or anthropomorphic pokemon. And not just give them a costume, but straight up turn them half-animal half-person</center>",
+          "img": "fluff muff.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Lovers first",
+          "id": 97,
+          "description": "<center>Those you fuck will fall more and more in love with you the more you fuck them, and you with them. Continual fucking can make the honeymoon phase last forever if you never try to stop yourselves.</center>",
+          "img": "lover's first.jpeg",
+          "maxSelectable": 1,
+          "cost": 3
+        },
+        {
+          "title": "Therapist",
+          "id": 95,
+          "description": "<center>Fucking you makes people happy! The better the fuck, the better they'll feel. Repeated fucking can even help the person through anxiety, depression, bipolar disorder, and other such mental issues.</center>",
+          "img": "therapy.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Distraction",
+          "id": 98,
+          "description": "<center>Your unconcealed cock will be incredibly entrancing. People will stop to look, and fantasize about fucking you. Seeing it erect will drive people wild with lust.\n\n</br>\n\n</br>\n\n<b>If you have unseen, people will pay no attention to your cock, as per unseen's rules. However, touching people with it whilst erect will get them to notice. The person you touch might be excited, but this ability won't affect those nearby, who will see the act as sexual assault.</b></center>",
+          "img": "Distraction.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Ruined",
+          "id": 101,
+          "description": "<center>The moment anyone fucks you, no other person on earth except you will be able to satisfy them. Even the most skilled, sexy person on earth couldn't make them cum.You can turn this off before you fuck someone\n\n</br>\n\n</br>\n\nFor an extra point, if you turn it off and fuck someone you already affected, the effects of this perk will be lifted.</center>",
+          "img": "ruined.jpg",
+          "maxSelectable": 2,
+          "cost": 1
+        },
+        {
+          "title": "Cock window",
+          "id": 99,
+          "description": "<center>Your dick can become see-through whenever you want it to. When you look through it, you can also see through a layer of clothing or thin walls. If a person isn't wearing anything, you can even use it to get a full colour look into their body. You can choose how many layers you'd be able to see through, up till about 3 inches of depth.</center>",
+          "img": "cock window.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Extra thicc",
+          "id": 87,
+          "description": "<center>You can alter the thickness of your cock(s). You can make it as wide as it is long, make it thick in one area and thin in another, or an inch thick. It's up ta you. However, for every inch you add to its width is an inch taken away from it's length. However, y'can't reduce it's length to less than 1/10th of its maximum</center>",
+          "img": "extra thick.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Split up gang",
+          "id": 103,
+          "description": "<center>You can split your cock into multiple smaller cocks, provided each of those cocks is at least an inch wide. You can also combine them back into the larger cock. Each of the split cocks is the same length as your normal cock.</center>",
+          "img": "split up gang.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "We vibin' out here!",
+          "id": 102,
+          "description": "<center>Your cock vibrates at five different speeds that you can swap between at will. Try not ta give people whiplash if they're stuck on yer dick, y'hear?</center>",
+          "img": "vibein' out here.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Nightlight",
+          "id": 100,
+          "description": "<center>Whilst erect, your cock and balls will glow white. You can switch this on and off though. Somethin' ta keep ya company at night.</center>",
+          "img": "nightlight.jpeg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Fem-cock",
+          "id": 104,
+          "description": "<center> Your cock is a woman. She’s as tall as your cock would be long, is proportionately wide, and is rather thin. She can have any eye colour, hair colour and skin colour you wish, but she’s undisputedly attractive. \n\n</br>\n\n</br>\n\nY'can give her a name if you want, but she’s basically a part of you, so it’s like having a name for your arm. Her personality is that of what you believe would be your perfect woman, or one of your split personalities if you have MPD or voices in yer head. Your testicles’ mass is turned into her breasts and ass, no matter how many testicles y'have. You must decide how much of your testicles will be allocated where. Those parts of her will grow as your balls might due to \"Blockage\" or other such items. She has no vagina and no asshole, just some jiggly ass cheeks. When you become aroused, she will blush and start rubbing her hands along her body or yours. Hugging her and playing with her body will feel like masturbation, and when you orgasm, your cum will come shooting out of her mouth. This Fem-cock synergises with all other perks/debuffs the way a normal cock might.\n\n</br>\n\n</br>\n\nEven without Cock concealing upgrades, strangers might assume you're conjoined twins or something. Though yer family and friends will probably wanna know the truth.\n\n</br>\n\n</br>\n\nIf you prefer, your cock can be a man. Everything else about this stays much the same, but your testicle mass will go towards inflating his muscles and his ass.</center>",
+          "img": "Fem-cock.png",
+          "maxSelectable": 1,
+          "cost": 1
+        }
+      ]
+    },
+    {
+      "title": "Balls",
+      "id": 105,
+      "contains": [
+        {
+          "title": "Blockage",
+          "id": 108,
+          "description": "<center><b>Requires Cum boost</b>\n\n</br>\n\n</br>\n\nWith each orgasm, you can choose how much of your total orgasm's worth of cum you shoot out. The cum you don't shoot out is stored for later in your balls, increasing their size. If you let yourself yourself orgasm at full force, all the stored cum on top of your normal orgasm's worth cum will be shot out. Careful y'don't go drownin' people, y'hear?</center>",
+          "img": "blockage.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Awfully ballsy",
+          "id": 109,
+          "description": "<center>Your testicles feel no pain or discomfort, essentially making them invulnerable.</center>",
+          "img": "awfully ballsy.jpg",
+          "maxSelectable": 1,
+          "cost": 2
+        },
+        {
+          "title": "Wax on, wax off",
+          "id": 110,
+          "description": "<center>You can choose how fertile your cum is as you fire it. You cannot control this when you're asleep or drugged, and your body will revert back to it's normal fertility.</center>",
+          "img": "Wax on, wax off.png",
+          "maxSelectable": 1,
+          "cost": 2
+        },
+        {
+          "title": "Inconceivable",
+          "id": 112,
+          "description": "<center>Your sperm cannot create a child, no matter how fertile the woman is.\n\n</br>\n\n</br>\n\nIf you have Wax on, wax off, you can increase the odds of impregnation from 0%, but the highest it'll go is 25%</center>",
+          "img": "Inconceivable.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Baby batter",
+          "id": 111,
+          "description": "<center>If your cum gets into someone womb, it will always conceive a child, no matter how fertile that woman is. This discounts things like infertility or any pills.\n\n</br>\n\n</br>\n\nIf you have Wax on, Wax off, you can lower the likelihood of insemination from 100%. The lowest you'll be able to push it is a 75% chance of pregnancy.\n\n</br>\n\n</br>\n\nIf you buy inconceivable with this, your fertility will fluctuate drastically and randomly. Wax on, wax off won't help there.</center>",
+          "img": "baby batter.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "It's kicking",
+          "id": 114,
+          "description": "<center>Any pregnancy you cause will feel amazing. The person can completely control how much pleasure the orgasm gives them, so as not to hamper their day to day life, but then to give them multiple screaming orgasms when they get home. If your cock is inside of them whilst they're pregnant, then they won't be able to control the pleasure, you will.</center>",
+          "img": "it's kicking.png",
+          "maxSelectable": 1,
+          "cost": 2
+        },
+        {
+          "title": "They grow up so fast",
+          "id": 115,
+          "description": "<center>\n\nChildren you sire will grow to adulthood physically and mentally in five years instead of twenty. They'll be perfectly healthy and functional, unless there were other complications along the way. Though be warned that they might not know as much as everyone else at that age. Once they reach adulthood, they start to age normally.\n\n</br>\n\n</br>\n\nBuying this again shortens the time-frame to a year. Buying it again shortens it to two months.</center>",
+          "img": "They grow up so fast.png",
+          "maxSelectable": 3,
+          "cost": 1
+        },
+        {
+          "title": "Empty headed",
+          "id": 116,
+          "description": "<center><b>Requires They grow up so fast</b>\n\n</br>\n\n</br>\n\nKids that grow up really quickly will have a portion of their parent's knowledge about the world, but not their opinions. So things you know or believe to be true. The opinions they have are influenced by their lives. The more points you put into They grow up so fast, the more of their parents knowledge they'll have.</center>",
+          "img": "Empty headed.png",
+          "maxSelectable": 1,
+          "cost": 2
+        },
+        {
+          "title": "Polite preggers",
+          "id": 117,
+          "description": "<center>\n\nAnyone who becomes pregnant by your semen will experience no negatives whilst pregnant. Sickness, back-pain, labour pains, hormonal issues, and stretch marks do not affect them.</center>",
+          "img": "polite preggers.jpeg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Young 'uns",
+          "id": 119,
+          "description": "<center>\n\nEvery pregnancy you cause will result in anywhere from two to eight kids at a time. You can pick the exact number when you shoot out the sperm</center>",
+          "img": "young 'uns.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Double up",
+          "id": 118,
+          "description": "<center>\n\nYou can impregnate women who are already pregnant</center>",
+          "img": "double up.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Speed breeding",
+          "id": 113,
+          "description": "<center>\n\nAnyone to become pregnant by your semen will complete the entire pregnancy in a month. Buying this perk again will shorten it to a week. However, if you buy this, I'd advise getting Polite preggers. Mainly because they'll need to eat a lot of food. If you shorten it to a week, then they might not be able to eat faster than their metabolism, and that could go very badly.</center>",
+          "img": "speed breeding.jpeg",
+          "maxSelectable": 2,
+          "cost": 1
+        },
+        {
+          "title": "Lovin' it",
+          "id": 120,
+          "description": "<center>\n\nIncestous relationships between you and your kids will have no negative effects. They'll suffer no mental damage, and any kids the two of you make will be perfectly healthy. Your kids will also become sexually interested in you at the time they reach sexual maturity (15-18). Whether they keep being interested is up to you. Go wild, ya weirdo. This also lets you impregnate yourself, so long as you have the right equipment</center>",
+          "img": "lovin' it.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Eggin' em on",
+          "id": 121,
+          "description": "<center>\n\nWhen you impregnate someone, they will squeeze out eggs rather than being pregnant. The egg will take as long to hatch as it would’ve taken to be incubated.\n\n</br>\n\n</br>\n\nFor an extra point, She can choose which of her pregnancies result in eggs.\n\n</br>\n\n</br>\n\nFor an extra point, you can choose which of her pregnancies result in eggs.</center>",
+          "img": "Eggin’ em on.jpeg",
+          "maxSelectable": 3,
+          "cost": 1
+        },
+        {
+          "title": "On the inside",
+          "id": 122,
+          "description": "<center>Your balls are now internal. You still put out the same amount of cum, but any testicle size increasing stuff won't affect you. This also doesn't give ya a big ol' weak spot. It still hurts if yer kicked there, but not quite so badly.\n\n</br>\n\n</br>\n\nIf you take ballbuster, this will still affect you. There'll be no visible effects, but you'll feel a pretty extreme pressure just beneath your gut, as if you need to pee really, really badly.</center>",
+          "img": "on the inside.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Yum cum",
+          "id": 123,
+          "description": "<center>Your cum tastes really good, looks like cream, and has a pleasant smell to it. The ultimate in appealing cock-milk, unlike the phrase cock-milk.</center>",
+          "img": "yum cum.jpeg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Two cums a day",
+          "id": 124,
+          "description": "<center><b>Requires Yum cum</b>\n\n</br>\n\n</br>\n\nYour cum is highly nutritious. It's incredibly healthy, filling, and just excellent for the human body. A person could supplement their diet with this stuff. If you make enough cum, they'd be able to live off of it.</center>",
+          "img": "two cums a day.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Butterflies in the pants",
+          "id": 126,
+          "description": "<center><b>Requires Yum cum</b>\n\n</br>\n\n</br>\n\nYour cum is an incredibly potent aphrodisiac. Just the smell of it can ignite someone's passions. Bathing in it, drinking it, having it pumped inside of them, all these are excellent ways to make people go crazy with lust. You can reduce it's potency, but your orgasms won't feel as great and you won't be able to get rid of it completely</center>",
+          "img": "butterflies in the pants.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Drugged up",
+          "id": 127,
+          "description": "<center><b>Requires Yum cum</b>\n\n</br>\n\n</br>\n\nYour cum can mimic the effects of most drugs when ingested. This only provides the high, with none of the come down or addictiveness (Unless you took We needs it). It can replicate alcohol, weed, cocaine, heroin, ice, ecstasy, tobacco, crystal meth, mushrooms, adderall and acid.</center>",
+          "img": "drugged up.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Suggestible",
+          "id": 125,
+          "description": "<center><b>Requires yum cum</b>\n\n</br>\n\n</br>\n\nFer half an hour after drinkin' yer cum, people'll be really easy to convince. Y'can't go against anything they truly believe, but y'can get them to tell the truth on stuff, and if ya do it enough, y'can imprint stuff in their brain. Bein' the kind hearted bastard y'are, y're probably gonna re-educate ISIS right? Y're not gonna make someone believe y're their husband, then fuck their adult kids and them in some massive orgy, are ya?</center>",
+          "img": "suggestible.jpeg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Fountain of youth",
+          "id": 129,
+          "description": "<center><b>Requires Yum cum</b>\n\n</br>\n\n</br>\n\nPumping your cum into someone will cause them to de-age, giving functional immortality. You cannot make them younger than when they hit puberty, and they will retain all their memories, skills, and muscle memory. Every 365 ml reduces their age by a year.</center>",
+          "img": "fountain of youth.png",
+          "maxSelectable": 1,
+          "cost": 2
+        },
+        {
+          "title": "You'll need a cup",
+          "id": 128,
+          "description": "<center><b>Requires Fountain of youth</b>\n\n</br>\n\n</br>\n\nFor an extra point, anyone who drinks your cum will only be able to get so young. You can set an age they cannot reduce past, provided they're older than that age when you set it.\n\n</br>\n\n</br>\n\nFor another point, anyone who drinks this cum will regress instantly to your set age, and will stay there. They will not age at all unless they've gone a year without drinking your cum.</center>",
+          "img": "You'll need a cup.jpg",
+          "maxSelectable": 2,
+          "cost": 1
+        },
+        {
+          "title": "First responder",
+          "id": 132,
+          "description": "<center><b>Requires Yum cum</b>\n\n</br>\n\n</br>\n\nYour cum has healing properties, from sealing cuts, smoothing bruises, curing viruses, repairing scar tissue, and all the way up to stopping cancer and repairing severed limbs. The more drastic the injury, the more cum is required.</center>",
+          "img": "first responder.jpg",
+          "maxSelectable": 1,
+          "cost": 2
+        },
+        {
+          "title": "The cannon",
+          "id": 131,
+          "description": "<center>Your cum doesn't so much dribble out as it is launched. The distance it's launched is the length of your cock plus the diameter of your testicles times two (Cl+(Td*2)). So if y've got a big ol' dick and some big ol' balls, expect to win a few shotput competitions by accident. If y've got porn physics, getting hit by this cum blast won't hurt them.</center>",
+          "img": "the cannon.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Sensitive",
+          "id": 135,
+          "description": "<center>Yours balls are a major erogenous zone. They feel way more awesome to be rubbed and kneaded, even stomped on or smacked if you have Awfully ballsy.</center>",
+          "img": "sensitive.jpg",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Relativity",
+          "id": 134,
+          "description": "<center>Each of your testicles is now a quarter of the length of your cock. That's it. Enjoy!</center>",
+          "img": "relativity.png",
+          "maxSelectable": 1,
+          "cost": 1
+        },
+        {
+          "title": "Clean up",
+          "id": 133,
+          "description": "<center>Your cum will automatically vanish after a few hours, if it's not inside someone, inside a condomancer condom, or a person, as in \"Gettin' intimate\".\n\n</br>\n\n</br>\n\nFor an extra point, the cum will vanish in an hour\n\n</br>\n\n</br>\n\nFor another point, the cum will vanish in five minutes\n\n</br>\n\n</br>\n\nFor another point, the cum will vanish when you choose it.</center>",
+          "img": "clean up.jpg",
+          "maxSelectable": 4,
+          "cost": 1
+        },
+        {
+          "title": "Reparations",
+          "id": 106,
+          "description": "<center><b>Requires Clean up</b>\n\n</br>\n\n</br>\n\nAnything your cum hits will be cleaned up once it disappears. It will not damage things copious amounts of cum might normally damage like wood or electronics.\n\n</br>\n\n</br>\n\nY'can use yer cum as a really powerful disinfectant, even as a sterilizer if ya like. It's that good at cleanin' up..</center>",
+          "img": "reparations.jpg",
+          "maxSelectable": 1,
+          "cost": 2
+        },
+        {
+          "title": "Bibbity bobbity boo",
+          "id": 130,
+          "description": "<center><b>Requires Yum cum</b>\n\n</br>\n\n</br>\n\nYour cum can alter the bodies of those who drink it, soak it into their skins, or have it pumped into them. The amount of cum necessary to change someone is relative to your maximum orgasm output.\n\nOne orgasm's worth of cum will do a small change, like realigning a nose, changing the colour of their eyes, something like that.\n\n</br>\n\n</br>\n\nThree orgasm's worth of cum will do a large change, like altering height, weight, and the size of major body parts.\n\n</br>\n\n</br>\n\nFive orgasm's worth of cum will do a massive change, something that a human body might not normally be able to do. Extra limbs, wings, tails, all that jazz.\n\n</br>\n\n</br>\n\nThe cum will be saved for next time, so you don't have to pump five orgasms of cum in one go to give your partner bat wings.\n\n</br>\n\n</br>\n\nThis ability cannot affect cocks. Not just yours, or ones that are magically given, but all cocks. Don't look at me, I dunno how it happened. It also doesn't affect other things covered in this CYOA, at least when you ingest it. For a list of things it can't do to you: Male to female, anything to do with cock/balls, increasing breast size, increasing muscle mass, actual/visible age, and any other physical transformations that can be found elsewhere in this CYOA.</center>",
+          "img": "bibbedty bobbedty boo.png",
+          "maxSelectable": 1,
+          "cost": 2
+        },
+        {
+          "title": "Cum boost",
+          "id": 107,
+          "description": "<center>Instead of only spurting out a meager 5ml per orgasm, you can now pump out about 50ml. This is about a golf balls worth of cum.\n\n</br>\n\n</br>\n\nFor every point you spend, your cumload per orgasm is multiplied tenfold. So two for 500ml, three for 5 liters, and so on and so forth.\n\n</br>\n\n</br>\n\n<b>Fun fact:</b> If you took the biggest dick and every single drawback (minus extra penises/boobs/balls), you would orgasm a total of 5 quattuorquadragintillion (135 zeroes) litres of semen in one go. That is 50 Septendecillion (50 zeroes) more liters of semen than atoms in the observable universe. Talk about a big bang.</center>",
+          "img": "cum boost.png",
+          "cost": 1
+        },
+        {
+          "title": "Cum golem",
+          "id": 136,
+          "description": "<center>Cum golems! C'mon, who doesn't want one a'these cheeky bastards? The way these guys're made is simple. First, y'need to orgasm at least 95 liters of cum into one area. All 95 liters've gotta be touching each other for the process to start. Then, the cum'll glow green. Tryin' ta pull it apart will just make it stretch, but not break, like playdoh. After a minute, the cum will stop glowing and reshape into a vague humanoid shape.\n\n</br>\n\n</br>\n\nNext, y've gotta tell it how y'want it ta look. Y'can either give it the first and last name of any person, or give it a detailed verbal description of how to look. When you say 'Ready', it'll assume that shape and that person's personality.\n\n</br>\n\n</br>\n\nThese guys can change their shape at will (Their personalities stay the same as they began). They're twice as strong as normal humans, and cannot be killed in any normal ways. They're totally loyal to you, and will follow your orders to the best of their abilities. They're completely infertile.\n\n</br>\n\n</br>\n\nThere are a few ways to get rid of a cum golem. Firstly, you can cast a leave spell. Simply say \"Ysto Zert, blist mahar gest\", and slap the cum golem in the face. They should dissolve into a puddle of normal cum. \n\n</br>\n\n</br>\n\nSecondly, you can freeze the cum golem solid. Then hit the golem with anything suitably heavy to smash it to pieces. If this happens, it should die on the spot and dissolve into a puddle.\n\n</br>\n\n</br>\n\nThirdly, wait. Cum golem's have a lifespan of a year. You can extend this by having them drink their body weight in cum. When they do this, their lifespan increases by three months. They don't visibly age though, so Fountain of youth won't do any more for them.\n\n</br>\n\n</br>\n\nIf part of the golem cum is a person from \"Gettin' intimate\", they'll assume their shape and personality, but still gain the cum golem abilities. Whilst not totally loyal, they have a stronger propensity towards liking you. If any of the getting rid methods are used on this person, they simply return to their human form.</center>",
+          "img": "cum golem.jpg",
+          "maxSelectable": 1,
+          "cost": 3
+        }
+      ]
+    },
+    {
+      "title": "Drawbacks",
+      "id": 137,
+      "description": "<center>So, you want yer cock t'be able to do a bit more, but y'don't want a bigger dick? Well, let's see if I can't help with that. Anything that contradicts one of these debuffs will be overruled, unless it says otherwise.</center>",
+      "contains": [
+        {
+          "title": "Show-off",
+          "id": 138,
+          "description": "<center>Your cock is only at it's massive size when you're flaccid. As you get erect, your cock shrinks back to its size before I gave you these powers.\n\n**Combining this and grower will cause your cock to get confused from all the excess magic buildup and simply fall-off your body. You'll be left with a smooth patch.**\n\n</br>\n\n</br>\n\n**If you get Relativity and Booby trap, this also affects them.**</center>",
+          "img": "show off.png",
+          "imgSource": "",
+          "maxSelectable": 1,
+          "cost": -1
+        },
+        {
+          "title": "Pencil dick",
+          "id": 139,
+          "description": "<center>Your cock's girth remains the same as it used to be.</center>",
+          "img": "pencil dick.jpeg",
+          "maxSelectable": 1,
+          "cost": -1
+        },
+        {
+          "title": "Back entrance",
+          "id": 140,
+          "description": "<center>You can only use your powers and have your giant cock when there's something up yer poop chute. If there's nothing up there but poop, everything disappears.</center>",
+          "img": "back entrance.jpg",
+          "maxSelectable": 1,
+          "cost": -1
+        },
+        {
+          "title": "Flop",
+          "id": 141,
+          "description": "<center>Your cock can never get erect, no matter how aroused you are.</center>",
+          "img": "Flop.png",
+          "maxSelectable": 1,
+          "cost": -1
+        },
+        {
+          "title": "The bar exam",
+          "id": 142,
+          "description": "<center>You can never go flaccid, and you'll always be slightly aroused.</center>",
+          "img": "the bar exam.jpg",
+          "maxSelectable": 1,
+          "cost": -1
+        },
+        {
+          "title": "True to life",
+          "id": 143,
+          "description": "<center>Every time you get an erection, you pass out. You'll only wake up when your cock orgasms back to flaccid. If you're asleep for too long, your brain will start having lewd dreams to orgasm you back to waking. Combining this with The bar exam is an excellent way to put yerself in an endless cumming coma.</center>",
+          "img": "true to life.jpg",
+          "maxSelectable": 1,
+          "cost": -2
+        },
+        {
+          "title": "Singleplayer",
+          "id": 144,
+          "description": "<center>You cannot orgasm unless you're masturbating. If anyone else touches your cock, you won't be able to cum. This includes Cum golems.</center>",
+          "img": "Singleplayer.jpg",
+          "maxSelectable": 1,
+          "cost": -1
+        },
+        {
+          "title": "Work for it",
+          "id": 145,
+          "description": "<center>You are totally incapable of getting off without someone else's help. Inanimate objects and cum golems don't count</center>",
+          "img": "Work for it.jpg",
+          "maxSelectable": 1,
+          "cost": -1
+        },
+        {
+          "title": "Keep it to yourself",
+          "id": 146,
+          "description": "<center>Cocks over 11 inches long are a major turn off for every living person. Most women will refuse to touch it, some will even scream or throw up on sight with it. The bigger it is, the more likely it is that the latter options will happen.\n\n</br>\n\n</br>\n\nNot likin' this and Suddenly gay can fix this, but those will only last a week with this debuff, even if you bought the permanence upgrade. Distraction will just draw attention without making people want you.\n\n</br>\n\n</br>\n\nFor an extra two points, your cock also turns you off. Y're a crazy bastard, y'know that?<center>",
+          "img": "keep it to yourself.png",
+          "maxSelectable": 2,
+          "cost": -2
+        },
+        {
+          "title": "Scrambled",
+          "id": 147,
+          "description": "<center>Every time you fuck someone and bring them to climax, they get a little dumber. If they go one day without fucking you, they regain a fucks worth of intelligence back, until they reach their original. The kind of stupid people become varies based on their personality, from bimbo, to frat bro, to jock, to guy-who-thinks-hes-smart, to happy idiot, to forest gump, and so on. No matter which way you push it though, eventually they'll be thick as pig shit, if they weren't already.</center>",
+          "img": "scrambled.jpeg",
+          "maxSelectable": 1,
+          "cost": -2
+        },
+        {
+          "title": "Cum on stupid",
+          "id": 148,
+          "description": "<center>Every time you orgasm, you get stupider. This'll wear off if you go without orgasm fer a while, but the dumber y'get, the harder it is to convince yerself not to keep goin. Eventually, you'll wank yourself into being an animal.</center>",
+          "img": "cum on stupid.png",
+          "maxSelectable": 1,
+          "cost": -2
+        },
+        {
+          "title": "The Breeder society",
+          "id": 149,
+          "description": "<center>A group of women are infatuated with your enormous cock, and believe themselves to be the deserving few to sire your child and bring forth a new age. Even if you make yourself infertile, these women can still become pregnant from your seed. The amount of points you get depends on the severity of this society.\n\n</br>\n\n</br>\n\n<b>One point -</b> A small group of mad-women who know of your existence but not where or who you are. If they find you, they'll try to seduce you and convince you to fuck them.\n\n</br>\n\n</br>\n\n<b>Two points -</b> The group is much larger, but very few of the women are your type at all. They know who you are, and will often stalk or harass you. Imagine having rabid fangirls wherever you go.\n\n</br>\n\n</br>\n\n<b>Three points -</b> Half the women on earth want you to themselves. They will attempt to rape you on sight.\n\n</br>\n\n</br>\n\n<b>Four points -</b> All women, including those related to you, will attempt to take you for themselves. This means storing you in their basement, bound to the walls with no means of escape as they fuck you until someone else finds you. One in every one hundred women will know your exact location if you're within five kilometres of them.\n\n</br>\n\n</br>\n\n[They can grow from one level to the next if you aren't careful, but you won't gain more points if they do]</center>",
+          "img": "the breeder society (2).jpg",
+          "maxSelectable": 4,
+          "cost": -1
+        },
+        {
+          "title": "Xestboro captist church",
+          "id": 150,
+          "description": "<center>A religious church in your home country knows of your existence, and believes you to be an affront to god. The amount of points you get depends on the severity of this church.\n\n</br>\n\n</br>\n\n<b>One point -</b> They are a small cabal of nutcases. They only know you exist, not where or who you are. Should they find you, they will protest wherever you go.\n\n</br>\n\n</br>\n\n<b>Two points -</b> They are numerous enough to be seen as a subset of the main religion. They know who you are, and will sabotage your efforts where they can. Hacking your stuff, vandalising your house, etc.\n\n</br>\n\n</br>\n\n<b>Three points -</b> The entire religion is made up of these nutters. They know who you are, and can tell it's you even if your cock is concealed by perks. They are likely to attack you, hurl foul abuse at you, and such.\n\n</br>\n\n</br>\n\n<b>Four points -</b> Every single human on earth believes in this religion, except you. They know exactly where you are at all times, and will stop at nothing to kill you.\n\n</br>\n\n</br>\n\n[They can grow from one level to the next if you aren't careful, but you won't gain more points if they do]</center>",
+          "img": "xestboro captist church.png",
+          "maxSelectable": 4,
+          "cost": -1
+        },
+        {
+          "title": "The incel division",
+          "id": 151,
+          "description": "<center>A group of men are jealous of your cock size. They seek nothing more than revenge for the act of being bigger than they are. The amount of points you get depends on the severity of this group.\n\n</br>\n\n</br>\n\n<b>One point -</b> A small group of unpleasant basement dwellers. They know that you exist, but have no idea where or who you are. They simply swap stories and conspiracy theories online. If they do find you, they'll DDoS you and troll you on whatever site you go.\n\n</br>\n\n</br>\n\n<b>Two points -</b> There is a website dedicated to hating you, with members around the world. These people know who you are, but not where you are. If they find you, they'll offer death threats, unending vitriol and requests that you kill yourself.\n\n</br>\n\n</br>\n\n<b>Three points -</b> One of the world's governments is influenced by this group. Any actions the group take against you while in that country will be completely without consequence for them. The country they operate in is randomised. If they find you, they will torture you for the crime of your giant cock. If you set foot in the country, they can pinpoint your location down to the nearest kilometer.\n\n</br>\n\n</br>\n\n<b>Four points -</b> They are a military unit who will hunt you down and have complete diplomatic immunity. They have special tracking devices that allow them to find you whenever you get an erection. If they do find you, they will chop your cock off and shoot you in the head.\n\n</br>\n\n</br>\n\n[They can grow from one level to the next if you aren't careful, but you won't gain more points if they do]</center>",
+          "img": "the incel division.jpg",
+          "maxSelectable": 4,
+          "cost": -1
+        },
+        {
+          "title": "Wonky pheromones",
+          "id": 152,
+          "description": "<center>Most animals with a sense of smell will be sexually attracted to you. Expect a lot of animals trying to rape you, regardless of your gender or theirs. Some of those cocks and mating rituals can really, really hurt.\n\n</br>\n\n</br>\n\nFor an extra point, even insects will try to jam their eggs into you, with hundreds of insects sticking all over your cock, trying to get it pregnant or get pregnant from it.</center>",
+          "img": "wonky pheromones.png",
+          "maxSelectable": 2,
+          "cost": -1
+        },
+        {
+          "title": "Puberty round two",
+          "id": 153,
+          "description": "<center>You get aroused and erect at random. You need no stimulation or no obviously sexy scenario to be ripping out of your jeans. However, you may develop a few new fetishes.</center>",
+          "img": "puberty round two.jpg",
+          "maxSelectable": 1,
+          "cost": -1
+        },
+        {
+          "title": "Whispers",
+          "id": 154,
+          "description": "<center>There's a little demon in your head. He's a major horn-dog. He has the power to speak to you, and you can speak back to him. However, people can't hear him, so doing this in public will make you seem crazy. His other power is to make your orgasm at any time. Sometimes he does it because he's bored, because he thinks it'd be funny, or because he's horny, which he always is. He'll also encourage you to do very gay things. If you actually are gay, the two of you will get along like a house on fire.</center>",
+          "img": "whispers.jpeg",
+          "maxSelectable": 1,
+          "cost": -1
+        },
+        {
+          "title": "Return the favour",
+          "id": 155,
+          "description": "<center>If you have sex with someone, and you orgasm before they do, then your cock will shrink down to one inch and all your powers'll be stripped away. The only way to get them back is to give that person an orgasm\n\n</br>\n\n</br>\n\n<b>If you combined this with feedback loop, you'll still lose your powers when both of you orgasm at the same time.</b></center>",
+          "img": "return the favour.jpeg",
+          "maxSelectable": 1,
+          "cost": -2
+        },
+        {
+          "title": "Out of this world",
+          "id": 156,
+          "description": "<center><b>Requires Tingle</b>\n\n</br>\n\n</br>\n\nAll sexual acts feel way, way too good. Just a few dirty words whispered into your ear and it will be all you can think about. Unless you have inhumanly tough willpower, you will be DTF anyone, at any time, in under a week.</center>",
+          "img": "out of this world.jpeg",
+          "maxSelectable": 1,
+          "cost": -1
+        },
+        {
+          "title": "Oh, that's gotta hurt",
+          "id": 157,
+          "description": "<center>You're not good with pain. Even the most minor of bruises will put you on the ground and in tears. You're like a soccer player, only it really does hurt.\n\n</br>\n\n</br>\n\nOh, and by the way, Awfully ballsy doesn't work if you have this</center>",
+          "img": "oh that's gotta hurt.jpg",
+          "maxSelectable": 1,
+          "cost": -1
+        },
+        {
+          "title": "Dammit Hans!",
+          "id": 158,
+          "description": "<center><b>Requires Hans, get the stepladder!</b>\n\n</br>\n\n</br>\n\nYou cannot control your height when you get an erection. You will either grow by the entire length of your cock, or you will shrink by the entire length of your cock. It's entirely random with each erection. If your cock is longer than you are tall, prepare to be a one inch tall person bolted onto a twelve foot cock. Best of luck getting yourself around when your legs won't reach the floor!</center>",
+          "img": "dammit hans.jpg",
+          "maxSelectable": 1,
+          "cost": -1
+        },
+        {
+          "title": "We needs it",
+          "id": 159,
+          "description": "<center>Your cum is now addictive. The more someone drinks it, the more they'll want to drink it. Most people won't get violent in order to get more, but people'll probably still rape you for it. It's wise to get people going cold turkey every so often, or just make em really submissive. You can reduce its addictiveness, but your orgasms won't feel as great and you won't be able to get rid of it completely</center>",
+          "img": "we needs it.png",
+          "maxSelectable": 1,
+          "cost": -1
+        },
+        {
+          "title": "Backfire",
+          "id": 160,
+          "description": "<center><b>Requires either Bibbity bobbity boo or Fluff muff</b>\n\n</br>\n\n</br>\n\nAny time you try to transform someone, there's a 1/10 chance the transformation will affect you. This cannot be reversed until you find another person to change. However, if you like the change, you can keep it.</center>",
+          "img": "backfire.png",
+          "maxSelectable": 1,
+          "cost": -1
+        },
+        {
+          "title": "Kicking up a stink",
+          "id": 161,
+          "description": "<center>Your cum smells absolutely foul. It's smells like rot mixed with a burning tire and a sprinkling of asshole.</center>",
+          "img": "Kicking up a stink.jpg",
+          "maxSelectable": 1,
+          "cost": -1
+        },
+        {
+          "title": "Ew. Ew ew ew ew.",
+          "id": 162,
+          "description": "<center><b>I'm not getting a picture for this</b>\n\n</br>\n\n</br>\n\nYour cum looks like rancid sick. It could still taste and smell great if you have Yum cum, but it's gonna be so tough to convince even those who've had it before to eat it. This is my least favourite option, including getting pregnant through your own cock.</center>",
+          "maxSelectable": 1,
+          "cost": -1
+        },
+        {
+          "title": "Lean cuisine",
+          "id": 163,
+          "description": "<center>Your cum tastes vile. Like an even saltier version of earwax. It's got such an awful taste that even if you put it in someone's pussy or ass, they'll still be able to taste it. It's as if those areas just grew taste buds. Because they did. Fantastic, now you've cursed the love of your life with tasting out her butthole. Are you happy now you monster?\n\n</br>\n\n</br>\n\nNah, I'm just fuckin' with ya, they'll only be tasting the cum the normal way. Don't test me though.</center>",
+          "img": "lean cuisine.jpeg",
+          "imgSource": "",
+          "maxSelectable": 1,
+          "cost": -1
+        },
+        {
+          "title": "Crush me",
+          "id": 164,
+          "description": "<center>The more you fuck someone, the more submissive you become to them.</center>",
+          "img": "crush me.jpg",
+          "maxSelectable": 1,
+          "cost": -1
+        },
+        {
+          "title": "Cruel of you",
+          "id": 165,
+          "description": "<center>The more you fuck someone, the less you're able to care about that person. Be careful with this one, it's landed a fair few hapless mugs in jail.</center>",
+          "img": "cruel of you.jpg",
+          "maxSelectable": 1,
+          "cost": -1
+        },
+        {
+          "title": "Ball buster",
+          "id": 166,
+          "description": "<center>Your balls constantly produce cum, making your balls grow and get tighter. The cum production is slowed down for half an hour after you orgasm. The more times you purchased cum boost, the faster your balls grow. With regular cum output, it would take about a month of not wanking for your balls to grow big enough to immobilise you. No matter how high your cum output, you won't be immobilised for at least eight hours after your last orgasm.</center>",
+          "img": "ball buster.png",
+          "maxSelectable": 1,
+          "cost": -1
+        },
+        {
+          "title": "Dairy cow",
+          "id": 167,
+          "description": "<center><b>Requires Milk bags</b>\n\n</br>\n\n</br>\n\nYour breasts constantly produce milk, making your boobs grow and get tighter. The milk production is even faster when you're pregnant. The more times you purchased cum boost, the faster your breasts grow. With regular cum output, it would take about a month of not orgasming for your breasts to grow big enough to immobilise you. However, if your breasts have doubled in size, they will constantly leak milk at a rate lower than your total production. No matter how high your cum output, you won't be immobilised for at least eight hours after your last orgasm.\n\n</br>\n\n</br>\n\nHope you've got an absorbent bra!</center>",
+          "img": "Dairy cow.jpg",
+          "maxSelectable": 1,
+          "cost": -1
+        },
+        {
+          "title": "Baby bangers",
+          "id": 168,
+          "description": "<center>Getting pregnant by your cock is extremely addictive, and people who do it will crave more. The only way to get rid of this addiction is to get addicted to heroin.</center>",
+          "img": "baby bangers.jpeg",
+          "maxSelectable": 1,
+          "cost": -1
+        },
+        {
+          "title": "Speed bump",
+          "id": 169,
+          "description": "<center>Anyone who is inseminated by you will be pregnant for 2 years rather than 9 months.\n\n</br>\n\n</br>\n\nFor another point, pregnancies last 5 years.\n\n</br>\n\n</br>\n\nFor an extra point, pregnancies last a decade.</center>",
+          "img": "speed bump.png",
+          "maxSelectable": 3,
+          "cost": -1
+        },
+        {
+          "title": "Cuck blucked",
+          "id": 170,
+          "description": "<center>The more you fuck someone, the more they'll want to fuck anyone else. Fuck them too often, and they'll start to resent you. The only way to repair the relationship between the two of you is to let them fuck other people in front of you. You cannot join in on the fucking, and if you do, they'll start calling rape.</center>",
+          "img": "cuck blucked.jpg",
+          "maxSelectable": 1,
+          "cost": -1
+        },
+        {
+          "title": "Everything must go",
+          "id": 171,
+          "description": "<center>You cannot conceal your cock and balls behind clothing. If you try, the clothing will rip itself to shreds.\n\n</br>\n\n</br>\n\nFor an extra point, you are rendered unable to wear any clothes at all. All clothes will tear themselves apart when you try and wear them. If you take Sweat stop with this, it'll make you far more resistant to cold, even at below zero temps.</center>",
+          "img": "everything must go.jpg",
+          "maxSelectable": 2,
+          "cost": -1
+        },
+        {
+          "title": "Overproduction",
+          "id": 172,
+          "description": "<center>No matter how much cum you should produce in an orgasm, you'll always shoot more or less sperm than you want to, depending on the situation.</center>",
+          "img": "overproduction.jpg",
+          "maxSelectable": 1,
+          "cost": -1
+        },
+        {
+          "title": "Life-like",
+          "id": 173,
+          "description": "<center>Ooooooh buddy. Turn back now. Y'don't want this, trust me. Y'sure? Aight...\n\n</br>\n\n</br>\n\nY're body isn't magic any more. All that blood, all that muscle, all that semen, it needs fuel. You need to eat and drink as much as a cock this massive would require just to function. Anything above four feet will mean you're eating almost all day.</center>",
+          "img": "life-like.png",
+          "maxSelectable": 1,
+          "cost": -5
+        },
+        {
+          "title": "Long term plan",
+          "id": 174,
+          "description": "<center>Your cock will take a while to grow, as will your powers. Every day, another inch will be added until you reach your full size. This can take a very long time if you have multiple cocks. Your abilities will randomly come in once a week, until you have them all. You start off with all debuffs though.\n\n</br>\n\nFor an extra two points, it takes a week to grow an inch, and a month per ability.\n\n</br>\n\nFor an extra two points, it takes a month to grow an inch, and a year per ability.</center>",
+          "img": "long term plan.jpg",
+          "maxSelectable": 3,
+          "cost": -2
+        },
+        {
+          "title": "Ligma",
+          "id": 175,
+          "description": "<center>You must suck yourself off at least once a month in order to keep your powers. Your cock will glow red when you’re within three days of losing your powers. This will cancel out any effects you've had on other people as well, so things like \"Bibbity bobbity boo\" will stop affecting them. If you bought \"Simple genetics\", your kids will still get and keep your powers</center>",
+          "img": "ligma.jpg",
+          "maxSelectable": 1,
+          "cost": -2
+        },
+        {
+          "title": "Shaken, not stirred",
+          "id": 176,
+          "description": "<center>Instead of a handshake, people feel obligated to shake your cock. Nobody will find it odd, but if you try to stop them or orgasm during their shake, they will be offended. </center>",
+          "img": "cockshake.jpg",
+          "maxSelectable": 1,
+          "cost": -1
+        },
+        {
+          "title": "Pint size",
+          "id": 177,
+          "description": "<center>Everyone laughs at your dick, but not for the reason ya think. Everyone thinks you're tiny. Even guys with micro-penises feel superior to you. Even if you bury all twelve feet of yourself into them, they'll just be giggling all the while. They might not even climax, your dick will just feel tiny as it stretches their insides like play-doh. Size queens will leave you to find men with \"larger\" cocks.</center>",
+          "img": "Pint size.jpg",
+          "maxSelectable": 1,
+          "cost": -2
+        }
+      ]
+    }
+  ]
+}
